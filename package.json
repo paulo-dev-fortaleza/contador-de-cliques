@@ -1,0 +1,12 @@
+{
+  "name": "contador-de-cliques",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "dev": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
